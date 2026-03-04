@@ -44,5 +44,4 @@ These metrics indicate highly accurate segmentation with strong overlap between 
 - Pandas
 - tqdm
 
-### Setup
-1. Clone this repository
+
