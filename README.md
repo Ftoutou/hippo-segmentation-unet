@@ -21,7 +21,7 @@ The model was trained on brain MRI images with corresponding hippocampus masks. 
 The model demonstrates excellent segmentation performance with the following evaluation metrics:
 
 - Dice Coefficient: 0.87 to 0.92 on test set
-- IoU Score (Jaccard Index): 0.78 to 0.85 on test set
+- IoU Score (Jaccard Index): 0.85 to 0.90 on test set
 - Binary Accuracy: 0.94 to 0.97 on test set
 
 These metrics indicate highly accurate segmentation with strong overlap between predicted and ground truth masks.
